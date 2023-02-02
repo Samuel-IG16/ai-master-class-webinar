@@ -1,0 +1,6 @@
+- Introduction to computer vision for handling images with OpenCV Libary
+- How to read an image
+- How to write an image
+- How to display or show an image
+- How to convert a colour image into a grayscale image
+- How to apply thresholding to convert grayscale to black and white image
